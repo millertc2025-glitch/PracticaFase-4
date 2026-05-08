@@ -1,0 +1,28 @@
+2026-05-08 14:11:37.258461 - Cliente registrado: Juan
+2026-05-08 14:11:37.259652 - Reserva creada correctamente
+2026-05-08 14:11:37.260475 - Reserva confirmada
+2026-05-08 14:11:37.261168 - Proceso de confirmación finalizado
+2026-05-08 14:11:37.267358 - El nombre del cliente está vacío
+2026-05-08 14:11:37.269119 - El documento del cliente está vacío
+2026-05-08 14:11:37.270780 - Cliente registrado: Carlos
+2026-05-08 14:11:37.271571 - Reserva creada correctamente
+2026-05-08 14:11:37.272183 - Reserva confirmada
+2026-05-08 14:11:37.273083 - Proceso de confirmación finalizado
+2026-05-08 14:11:37.274071 - Cliente registrado: Maria
+2026-05-08 14:11:37.275069 - Reserva creada correctamente
+2026-05-08 14:11:37.310891 - Reserva confirmada
+2026-05-08 14:11:37.311477 - Proceso de confirmación finalizado
+2026-05-08 14:11:37.312368 - Cliente registrado: Luis
+2026-05-08 14:11:37.313619 - Cliente registrado: Pedro
+2026-05-08 14:11:37.314262 - Servicio inválido
+2026-05-08 14:11:37.315468 - Cliente registrado: Laura
+2026-05-08 14:11:37.316063 - Reserva creada correctamente
+2026-05-08 14:11:37.316587 - Reserva cancelada
+2026-05-08 14:11:37.317326 - Cliente registrado: Sofia
+2026-05-08 14:11:37.318147 - Reserva creada correctamente
+2026-05-08 14:11:37.318990 - Reserva confirmada
+2026-05-08 14:11:37.319563 - Proceso de confirmación finalizado
+2026-05-08 14:11:37.320554 - Cliente registrado: Miguel
+2026-05-08 14:11:37.321330 - Reserva creada correctamente
+2026-05-08 14:11:37.321951 - Reserva confirmada
+2026-05-08 14:11:37.322620 - Proceso de confirmación finalizado
